@@ -1,9 +1,8 @@
-
 version 'unspecified'
 
 repositories {
     flatDir {
-        dirs 'libs' // инициализируем папку, хранящую aar-архивы как репозиторий
+        dirs 'libs'
     }
     mavenCentral()
 }
