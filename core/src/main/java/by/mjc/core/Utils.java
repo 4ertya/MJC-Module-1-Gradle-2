@@ -1,6 +1,7 @@
 package by.mjc.core;
 
-import by.mjc.utils.StringUtils;
+
+import by.mjc.palchynski.StringUtils;
 
 public class Utils {
 
